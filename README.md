@@ -1,1 +1,1 @@
-orange : good for making orange juice
+orange:can be used to make orange juioce
